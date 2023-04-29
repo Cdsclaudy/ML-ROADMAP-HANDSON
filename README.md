@@ -10,9 +10,9 @@
 ## GENERAL
 
 1. Concepts, Inputs & Attributes
-   1. [Categorical Variables](/content-files/1.1.ipynb)
-   2. [Ordinal Variables](/content-files/1.2.ipynb)
-   3. Numerical Variables
+   1. [Categorical Variables](/content-files/1.1.1.ipynb)
+   2. [Ordinal Variables](/content-files/1.1.2.ipynb)
+   3. [Numerical Variables](/content-files/1.1.3.ipynb)
 2. Cost Functions and Gradient Descent
 3. Overfitting/Underfitting
 4. Training, Validation and Test Data
