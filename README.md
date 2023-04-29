@@ -19,7 +19,7 @@
 5. Bias & Variance
 6. Lift
 
-## Methods
+## METHODS
 
 1. Supervised Learning
    1. Regression
@@ -60,14 +60,14 @@
 4. Reinforcement Learning
    1. Q-Learning
 
-## Use Cases
+## USE CASES
 
 1. Sentiment Analysis
 2. Collaborative Filtering
 3. Tagging
 4. Prediction
 
-## Tools
+## TOOLS
 
 1. Important Libraries
    1. scikit-learn
