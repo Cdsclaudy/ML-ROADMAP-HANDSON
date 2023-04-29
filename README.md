@@ -11,7 +11,7 @@
 
 1. Concepts, Inputs & Attributes
    1. [Categorical Variables](/content-files/1.1.ipynb)
-   2. Ordinal Variables
+   2. [Ordinal Variables](/content-files/1.2.ipynb)
    3. Numerical Variables
 2. Cost Functions and Gradient Descent
 3. Overfitting/Underfitting
