@@ -10,7 +10,7 @@
 ## GENERAL
 
 1. Concepts, Inputs & Attributes
-   1. Categorical Variables
+   1. [Categorical Variables](/content-files/1.1.ipynb)
    2. Ordinal Variables
    3. Numerical Variables
 2. Cost Functions and Gradient Descent
