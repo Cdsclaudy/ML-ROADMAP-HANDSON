@@ -15,7 +15,7 @@
    3. [Numerical Variables](/content-files/1.1.3.ipynb)
 2. [Cost Functions and Gradient Descent](/content-files/1.2.ipynb)
 3. [Overfitting/Underfitting](/content-files/1.3.ipynb)
-4. Training, Validation and Test Data
+4. [Training, Validation and Test Data](/content-files/1.4.ipynb)
 5. Bias & Variance
 6. Lift
 
