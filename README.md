@@ -17,7 +17,7 @@
 3. [Overfitting/Underfitting](/content-files/1.3.ipynb)
 4. [Training, Validation and Test Data](/content-files/1.4.ipynb)
 5. [Bias & Variance](/content-files/1.5.ipynb)
-6. Lift
+6. [Lift](/content-files/1.6.ipynb)
 
 ## METHODS
 
