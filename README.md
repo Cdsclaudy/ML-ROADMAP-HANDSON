@@ -21,10 +21,10 @@
 
 ## METHODS
 
-1. Supervised Learning
-   1. Regression
-      1. Linear Regression
-      2. Poisson Regression
+1. [Supervised Learning](/content-files/2.1.ipynb)
+   1. [Regression](/content-files/2.1.1.ipynb)
+      1. [Linear Regression](/content-files/2.1.1.1.ipynb)
+      2. [Poisson Regression](/content-files/2.1.1.2.ipynb)
    2. Classification
       1. Classification Rate
       2. Decision Trees
