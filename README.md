@@ -25,14 +25,14 @@
    1. [Regression](/content-files/2.1.1.ipynb)
       1. [Linear Regression](/content-files/2.1.1.1.ipynb)
       2. [Poisson Regression](/content-files/2.1.1.2.ipynb)
-   2. Classification
-      1. Classification Rate
-      2. Decision Trees
-      3. Logistic Regression
-      4. Naiive Bayes Classifiers
-      5. K-Nearest Neighbours
-      6. SVM
-      7. Gaussian Mixture Models
+   2. [Classification](/content-files/2.1.2.ipynb)
+      1. [Classification Rate](/content-files/2.1.1.1.ipynb)
+      2. [Decision Trees](/content-files/2.1.1.2.ipynb)
+      3. [Logistic Regression](/content-files/2.1.2.3.ipynb)
+      4. [Naiive Bayes Classifiers](/content-files/2.1.2.4.ipynb)
+      5. [K-Nearest Neighbours](/content-files/2.1.2.5.ipynb)
+      6. [SVM](/content-files/2.1.2.6.ipynb)
+      7. [Gaussian Mixture Models](/content-files/2.1.2.7.ipynb)
 2. Unsupervised Learning
    1. Clustering
       1. Hierarchial Clustering
